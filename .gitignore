@@ -41,3 +41,10 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+pgdata
+data
+mnt_data
+logs
+*.swp
+_*
+.DS_Store
